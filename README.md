@@ -1,4 +1,4 @@
-# Hi there,I'm Angie! 
+# Hi there,I'm Angie! 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kanyi-a&show_icons=true&theme=tokyonight" />
 
